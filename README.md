@@ -77,7 +77,7 @@ These settings control the interpolation algorithm. The default values are a goo
 * **Fill Internal Gaps Only**: Check this box to disable the `Bridging Distance` functionality. The tool will only fill gaps that are fully surrounded by data and will not attempt to connect separate data areas.
 
 ### 3. Preview and Run
-
+![image](bathynterpy_preview.png)
 1.  Once your parameters are set, click the **"Preview Mask to Run Interpolation"** button.
 2.  A plot window will appear, showing a preview of the mask. **White areas are the pixels that will be filled**. Black areas will be left untouched.
 3.  Review the preview. If it looks correct, close the plot window and click **"Yes"** in the confirmation dialog box that appears.
