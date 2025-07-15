@@ -46,7 +46,7 @@ The interpolation itself happens in two distinct passes to maximize quality:
 
 The graphical user interface (GUI) provides a straightforward way to control the interpolation process.
 
-![image](https://github.com/user-attachments/assets/cdd0418c-34d3-4a11-a89e-b9b94090b8f1)
+![image](bathynterpy.png)
 
 
 ### 1. File Selection
